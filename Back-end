@@ -1,0 +1,11 @@
+Back-end
+In distinct terminal:
+
+# Go to backend folder
+cd back
+
+# Install dependencies
+yarn 
+
+# Start server
+yarn start
